@@ -1,0 +1,16 @@
+{
+  "appName": "your app name",
+
+  "emailSource": "email@domain.com",
+  "verificationLink": "link to verify password",
+  "resetPasswordLink": "link to reset password",
+
+  "tablePrefix": "table prefix for dynamodb",
+  "lambdaARN": "lambda function arn",
+  "cognitoIdentityPoolId": "cogitdo identity pool id",
+  "developerProviderName": "developer provider name",
+
+  "accessKeyId": "your aws access key, only used with grunt",
+  "secretAccessKey": "your aws secret key, only used with grunt",
+  "region": "aws region"
+}

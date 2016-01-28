@@ -1,0 +1,6 @@
+event.json
+config.json
+*sublime*
+/build
+/node_modules
+/dist
